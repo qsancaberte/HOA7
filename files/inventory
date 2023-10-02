@@ -1,0 +1,14 @@
+[web_servers]
+skycaberte@192.168.56.102
+skyaebril@192.168.56.111
+
+[db_servers]
+skycaberte@192.168.56.103
+skyaebril@192.168.56.111
+
+[file_servers]
+skycaberte@192.168.56.102
+
+[workstations]
+skycaberte@192.168.56.103
+
